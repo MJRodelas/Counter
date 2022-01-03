@@ -1,2 +1,2 @@
 # counter
-People Counter
+People Counter using HTML and Javascript
