@@ -13,13 +13,13 @@ let count = 0
 
 function increment(){
     count += 1
-    countEl.innerText = count
+    countEl.textContent = count
 }
 
 //Create a function save(), which logs the count when it's called
 function save(){
     let saveCount = count + " - "
-    saveEl.innerText += saveCount
+    saveEl.textContent += saveCount
 }
 
 // 1. Grab the save-el paragrah and store it in a variable called saveEl
