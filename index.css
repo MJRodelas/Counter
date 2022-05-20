@@ -19,28 +19,16 @@ h2{
 }
 
 button{
-    background-color: black;
-    color: white;
-}
-
-.container .btn {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    background-color: #f1f1f1;
-    color: black;
+    background-color: rgb(21, 224, 38);
+    color: rgb(8, 8, 8);
     font-size: 16px;
     padding: 16px 30px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-    text-align: center;
-    margin-top: 50px;
-  }
+    border-radius: 10px;
+}
 
-  .container .btn:hover {
+button:hover{
     background-color: black;
     color: white;
-  }
+    -ms-transform: translate(-50%, -50%);
+    border-radius:10px;
+}
