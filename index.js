@@ -20,6 +20,8 @@ function increment(){
 function save(){
     let saveCount = count + " - "
     saveEl.textContent += saveCount
+    countEl.textContent = 0
+    count = 0
 }
 
 // 1. Grab the save-el paragrah and store it in a variable called saveEl
