@@ -1,0 +1,32 @@
+body{
+    background-image: url("background1.jpg");
+    background-size: cover;
+}
+/* 
+.container{
+    background-color: grey;
+    opacity: 0.7;
+    height: 30%;
+    margin: 30px;
+    position: relative;
+    border: 3px solid black;
+    padding-left: 20%;
+    font-size: 20px; 
+    opacity: 3;
+    font-weight: bold;   
+} */
+
+.container{
+    border: 1px solid black;
+    position: relative;
+    left: 50px;
+    padding: auto;
+    background-color: lightblue;
+    width: 50%;
+    height: 30%;
+    margin: auto;
+    margin-top: 20%;
+    opacity: 0.5;
+    text-align: center;
+    text
+}
